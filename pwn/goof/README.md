@@ -1,6 +1,7 @@
 # goof
 
 **Category** : pwn
+
 **Points** : 200
 
 math time

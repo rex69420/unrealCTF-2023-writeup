@@ -1,6 +1,7 @@
 # my honest reaction
 
 **Category** : rev
+
 **Points** : 150
 
 oh god i despise java
@@ -62,3 +63,12 @@ public class flag {
    }
 }
 ```
+
+compile it and run it, and you get the flag.
+
+```bash
+javac flag.java
+java flag
+```
+
+![flag](https://i.imgur.com/fLNngSU.png)

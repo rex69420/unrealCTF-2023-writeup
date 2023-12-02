@@ -1,6 +1,7 @@
 # web-starter
 
 **Category** : warmup
+
 **Points** : 50
 
 web exp time
@@ -33,5 +34,5 @@ user_agent = "Samsung Smart Fridge 2.0"
 resp = requests.post(url, headers={"User-Agent": user_agent})
 text = resp.text.split("Flag:")[1].strip()
 decoded_text = base64.b64decode(base64.b64decode(text))  # double base64 decode
-print(decoded_text.decode("utf-8"))
+print(decoded_text.decode("utf-8")) # unreal{twitter_for_samsung_smart_fridge}
 ```

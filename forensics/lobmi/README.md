@@ -1,6 +1,7 @@
 # lobmi
 
 **Category** : forensics
+
 **Points** : 200
 
 love me love me say that you love me
@@ -12,7 +13,7 @@ fool me fool me go on and fool me
 - [lobmi.wav](./lobmi.wav)
 - [f.pyc](./f.pyc)
 
-decompile the .pyc file to get the code that the file was encoded with.
+decompile the `f.pyc` file to get the code that the file was encoded with.
 
 ```python
 import wave

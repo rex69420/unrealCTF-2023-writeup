@@ -1,6 +1,7 @@
 # zq5
 
 **Category** : warmup
+
 **Points** : 50
 
 NGY5NGQ3ZTY1ZjFlN2U1NWI1YmZjZjczMzQ0NDlkOGY=
@@ -12,3 +13,5 @@ flag format: unreal{plaintext}
 ## Solution
 
 base64 decode the string, and you get the md5 hash. put the hash on a website like https://crackstation.net/ and you get the flag.
+
+![crackstation](https://i.imgur.com/dQILXFW.png)

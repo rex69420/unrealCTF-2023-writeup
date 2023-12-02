@@ -1,6 +1,7 @@
 # binary
 
 **Category** : warmup
+
 **Points** : 50
 
 come on.
