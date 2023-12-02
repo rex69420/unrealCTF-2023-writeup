@@ -8,7 +8,7 @@ i just wanted a good file hosting service man
 
 http://195.154.231.70:1337/
 
-## Files :
+## Files
 
 - [file-server.zip](./file-server.zip)
 

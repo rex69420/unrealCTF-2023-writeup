@@ -8,7 +8,7 @@ go on, maybe buy a playlist
 
 `nc 195.154.231.70 4343`
 
-## Files :
+## Files
 
 - [shop](./shop)
 

@@ -8,7 +8,7 @@ yes another one, go
 
 http://195.154.231.70:5341
 
-## Files :
+## Files
 
 - [sec.zip](./sec.zip)
 

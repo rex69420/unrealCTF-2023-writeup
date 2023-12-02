@@ -8,7 +8,7 @@ deadbeef!
 
 `nc 195.154.231.70 8767`
 
-## Files :
+## Files
 
 - [chall](./chall)
 

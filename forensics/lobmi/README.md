@@ -8,7 +8,7 @@ love me love me say that you love me
 
 fool me fool me go on and fool me
 
-## Files :
+## Files
 
 - [lobmi.wav](./lobmi.wav)
 - [f.pyc](./f.pyc)

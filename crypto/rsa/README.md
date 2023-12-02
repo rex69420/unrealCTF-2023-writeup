@@ -6,7 +6,7 @@
 
 ye toh hona hi tha.
 
-## Files :
+## Files
 
 - [chall.txt](./chall.txt)
 

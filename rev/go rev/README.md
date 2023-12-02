@@ -6,7 +6,7 @@
 
 pfft
 
-## Files :
+## Files
 
 - [gorev](./gorev)
 

@@ -6,7 +6,7 @@
 
 let's see how advanced the advanced encryption system is
 
-## Files :
+## Files
 
 - [chall.py](./chall.py)
 

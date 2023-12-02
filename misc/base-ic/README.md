@@ -6,7 +6,7 @@
 
 💯💯💯💯💯💯💯
 
-## Files :
+## Files
 
 - [chall.txt](./chall.txt)
 

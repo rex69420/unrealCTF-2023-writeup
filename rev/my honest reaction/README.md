@@ -6,7 +6,7 @@
 
 oh god i despise java
 
-## Files :
+## Files
 
 - [flag.class](./flag.class)
 

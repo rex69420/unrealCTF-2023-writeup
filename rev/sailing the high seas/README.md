@@ -6,7 +6,7 @@
 
 did you know ghidra has a dark theme?
 
-## Files :
+## Files
 
 - [chall](./chall)
 

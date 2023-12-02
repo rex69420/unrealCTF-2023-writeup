@@ -8,7 +8,7 @@ kaafi easy
 
 `nc 195.154.231.70 5428`
 
-## Files :
+## Files
 
 - [f](./f)
 

@@ -8,7 +8,7 @@
 
 (only use the bottom row of your keyboard)
 
-## Files :
+## Files
 
 - [me_when.jpg](./me_when.jpg)
 - [sst.wav](./sst.wav)

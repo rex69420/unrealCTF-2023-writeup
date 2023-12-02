@@ -6,7 +6,7 @@
 
 i fucking hate crypto.
 
-## Files :
+## Files
 
 - [chall.py](./chall.py)
 - [chall.txt](./chall.txt)

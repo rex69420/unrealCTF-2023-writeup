@@ -6,7 +6,7 @@
 
 something funny about the question title..
 
-## Files :
+## Files
 
 - [chall](./chall)
 
