@@ -1,8 +1,8 @@
 # shop
 
-**Category** : pwn
+**Category**: pwn
 
-**Points** : 400
+**Points**: 400
 
 go on, maybe buy a playlist
 

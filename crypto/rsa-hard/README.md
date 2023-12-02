@@ -1,8 +1,8 @@
 # rsa-hard
 
-**Category** : crypto
+**Category**: crypto
 
-**Points** : 350
+**Points**: 350
 
 i fucking hate crypto.
 

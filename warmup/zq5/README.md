@@ -1,8 +1,8 @@
 # zq5
 
-**Category** : warmup
+**Category**: warmup
 
-**Points** : 50
+**Points**: 50
 
 NGY5NGQ3ZTY1ZjFlN2U1NWI1YmZjZjczMzQ0NDlkOGY=
 

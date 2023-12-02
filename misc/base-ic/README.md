@@ -1,8 +1,8 @@
 # base-ic
 
-**Category** : misc
+**Category**: misc
 
-**Points** : 100
+**Points**: 100
 
 💯💯💯💯💯💯💯
 

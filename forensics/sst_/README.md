@@ -1,8 +1,8 @@
 # sst\_
 
-**Category** : forensics
+**Category**: forensics
 
-**Points** : 250
+**Points**: 250
 
 **slow**ly fill in the blank of qname :p
 

@@ -1,8 +1,8 @@
 # lobmi
 
-**Category** : forensics
+**Category**: forensics
 
-**Points** : 200
+**Points**: 200
 
 love me love me say that you love me
 

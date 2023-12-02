@@ -1,8 +1,8 @@
 # file-server
 
-**Category** : web
+**Category**: web
 
-**Points** : 300
+**Points**: 300
 
 i just wanted a good file hosting service man
 

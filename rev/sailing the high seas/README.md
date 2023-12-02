@@ -1,8 +1,8 @@
 # sailing the high seas
 
-**Category** : rev
+**Category**: rev
 
-**Points** : 250
+**Points**: 250
 
 did you know ghidra has a dark theme?
 

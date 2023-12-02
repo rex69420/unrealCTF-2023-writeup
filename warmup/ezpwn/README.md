@@ -1,8 +1,8 @@
 # ezpwn
 
-**Category** : warmup
+**Category**: warmup
 
-**Points** : 50
+**Points**: 50
 
 first pwn challenge!!!
 

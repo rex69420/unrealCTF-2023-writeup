@@ -1,8 +1,8 @@
 # sanity check
 
-**Category** : warmup
+**Category**: warmup
 
-**Points** : 50
+**Points**: 50
 
 join the discord server if you haven't already at https://confluence.atlfest.com/discord!
 

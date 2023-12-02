@@ -1,8 +1,8 @@
 # what's UP, X!
 
-**Category** : rev
+**Category**: rev
 
-**Points** : 200
+**Points**: 200
 
 something funny about the question title..
 

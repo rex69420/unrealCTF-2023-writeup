@@ -1,8 +1,8 @@
 # bot
 
-**Category** : warmup
+**Category**: warmup
 
-**Points** : 50
+**Points**: 50
 
 the influencer for confluence 2023 :) try $
 

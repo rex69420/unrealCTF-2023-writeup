@@ -1,8 +1,8 @@
 # rsa
 
-**Category** : crypto
+**Category**: crypto
 
-**Points** : 150
+**Points**: 150
 
 ye toh hona hi tha.
 

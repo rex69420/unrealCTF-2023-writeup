@@ -1,8 +1,8 @@
 # args
 
-**Category** : pwn
+**Category**: pwn
 
-**Points** : 300
+**Points**: 300
 
 deadbeef!
 

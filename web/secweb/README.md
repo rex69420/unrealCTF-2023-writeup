@@ -1,8 +1,8 @@
 # secweb
 
-**Category** : web
+**Category**: web
 
-**Points** : 250
+**Points**: 250
 
 yes another one, go
 

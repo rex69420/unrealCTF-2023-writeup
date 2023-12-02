@@ -1,8 +1,8 @@
 # my honest reaction
 
-**Category** : rev
+**Category**: rev
 
-**Points** : 150
+**Points**: 150
 
 oh god i despise java
 

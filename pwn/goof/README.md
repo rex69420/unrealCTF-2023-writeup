@@ -1,8 +1,8 @@
 # goof
 
-**Category** : pwn
+**Category**: pwn
 
-**Points** : 200
+**Points**: 200
 
 math time
 

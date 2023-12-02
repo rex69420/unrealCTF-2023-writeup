@@ -1,8 +1,8 @@
 # go rev
 
-**Category** : rev
+**Category**: rev
 
-**Points** : 400
+**Points**: 400
 
 pfft
 
