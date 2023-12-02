@@ -49,3 +49,5 @@ print(string.split("###")[0])
 
 song.close()
 ```
+
+![flag](https://i.imgur.com/XhG0qL8.png)
