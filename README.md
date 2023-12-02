@@ -12,7 +12,7 @@
 
 1. [+] aes - `unreal{m3_wh3n_/d3v/ur4nd0m}`
 2. [+] rsa - `unreal{f3rm4771n6}`
-3. [*] rsa-hard - `unreal{1_fuck1n6_h473_7h15_ch4ll3n63}`
+3. [+] rsa-hard - `unreal{1_fuck1n6_h473_7h15_ch4ll3n63}`
 
 ## forensics -
 
@@ -21,7 +21,7 @@
 
 ## misc -
 
-1. [+] baseic - `unreal{w0nd3r_h0w_l0n6_17_700k_y0u_70_f1nd_b453100}`
+1. [+] base-ic - `unreal{w0nd3r_h0w_l0n6_17_700k_y0u_70_f1nd_b453100}`
 
 ## pwn -
 
@@ -39,5 +39,5 @@
 
 ## web -
 
-1. [+] fileserver - `unreal{5yml1nk5_4lw4y5_d1d_cr33p_m3_0u7}`
+1. [+] file-server - `unreal{5yml1nk5_4lw4y5_d1d_cr33p_m3_0u7}`
 2. [+] secweb - `unreal{m07h3rfuck1n6_j01n}`
