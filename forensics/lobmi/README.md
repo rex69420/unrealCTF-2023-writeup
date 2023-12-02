@@ -13,7 +13,7 @@ fool me fool me go on and fool me
 - [lobmi.wav](./lobmi.wav)
 - [f.pyc](./f.pyc)
 
-decompile the `f.pyc` file to get the code that the file was encoded with.
+decompile the `f.pyc` file to get the code that that was used to encode the flag into the `lobmi.wav` file.
 
 ```python
 import wave
@@ -32,7 +32,7 @@ with wave.open("lobmi.wav", "wb") as fd:
 song.close()
 ```
 
-simply reverse the code to get the flag.
+simply write a script to extract the information `lobmi.wav` file using the same method.
 
 ```python
 import wave
