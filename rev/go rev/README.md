@@ -5,11 +5,12 @@
 
 pfft
 
-## Files : 
- - [gorev](./gorev)
+## Files :
 
+- [gorev](./gorev)
 
 ## Solution
+
 the intended solution was to open it in ghidra, and figure out that the bytes of the flag are being xored with 0x69, and then xor it again with 0x69 to get the flag.
 
 but since no one solved it the intended way, i'll be talking about the unintended and much simpler way, which was to patch the binary.

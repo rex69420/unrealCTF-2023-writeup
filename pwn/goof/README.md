@@ -5,12 +5,10 @@
 
 math time
 
-
-
 `nc 195.154.231.70 2000`
 
-
 ## Solution
+
 write a python script to solve the math problem, and send the answer to the server.
 
 ```python

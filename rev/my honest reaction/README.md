@@ -5,14 +5,16 @@
 
 oh god i despise java
 
-## Files : 
- - [flag.class](./flag.class)
+## Files :
 
+- [flag.class](./flag.class)
 
 ## Solution
+
 decompile the class file using any java decompiler, such as https://jdec.app/.
 
 you should get back this code,
+
 ```java
 import java.util.Scanner;
 

@@ -5,13 +5,15 @@
 
 i fucking hate crypto.
 
-## Files : 
- - [chall.py](./chall.py)
- - [chall.txt](./chall.txt)
+## Files :
 
+- [chall.py](./chall.py)
+- [chall.txt](./chall.txt)
 
 ## Solution
-hints posted in the discord: 
+
+hints posted in the discord:
+
 1. `If the gcd(e1, e2) is equal to 1, then, according to Bezout's identity, there exist integers a and b such that their linear combination a * e1 + b * e2 = 1.`
 2. `extended-euclid-gcd`
 
@@ -24,7 +26,6 @@ c1 = m ^ e1 (mod n) ==> c1 ^ a = m ^ (e1 * a) (mod n)
 c2 = m ^ e2 (mod n) ==> c2 ^ b = m ^ (e2 * b) (mod n)
 c1 * c2 = m ^ (e1 * a + e2 * b) (mod n) = m ^ 1 (mod n)
 ```
-
 
 here is the solution script, `extended-euclid-gcd` implementation taken from https://www.rookieslab.com/posts/extended-euclid-algorithm-to-find-gcd-bezouts-coefficients-python-cpp-code
 

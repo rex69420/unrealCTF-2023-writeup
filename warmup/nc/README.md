@@ -5,12 +5,10 @@
 
 this is why i had you guys install ncat
 
-
-
 `nc 195.154.231.70 9000`
 
-
 ## Solution
+
 simply connect to it using nc, and you get a linux shell.
 
 you can use `ls` to list the files, and you will find a `flag.txt`

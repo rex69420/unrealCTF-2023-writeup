@@ -5,16 +5,16 @@
 
 kaafi easy
 
-
-
 `nc 195.154.231.70 5428`
 
-## Files : 
- - [f](./f)
+## Files :
 
+- [f](./f)
 
 ## Solution
+
 the given file is a base64 encoded binary. the first step is to decode it.
+
 ```python
 import base64
 

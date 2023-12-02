@@ -5,11 +5,12 @@
 
 💯💯💯💯💯💯💯
 
-## Files : 
- - [chall.txt](./chall.txt)
+## Files :
 
+- [chall.txt](./chall.txt)
 
 ## Solution
+
 from the question name, question text, and chall.txt, you can research and find that [base100](https://github.com/AdamNiederer/base100) was used.
 
 to decode, run the command `echo -n "👬👥👩👜👘👣👲👮🐧👥👛🐪👩👖👟🐧👮👖👣🐧👥🐭👖🐨🐮👖🐮🐧🐧👢👖👰🐧👬👖🐮🐧👖👝🐨👥👛👖👙🐫🐬🐪🐨🐧🐧👴🐁" | base100 -d`

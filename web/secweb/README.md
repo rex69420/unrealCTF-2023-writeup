@@ -5,15 +5,14 @@
 
 yes another one, go
 
-
-
 http://195.154.231.70:5341
 
-## Files : 
- - [sec.zip](./sec.zip)
+## Files :
 
+- [sec.zip](./sec.zip)
 
 ## Solution
+
 the vulnerability is on line 78, where it attempts to use `os.path.join` at the `/file/<id>` route.
 
 by looking at the Dockerfile, we can see the flag is at `/flag`.

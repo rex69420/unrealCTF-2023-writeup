@@ -7,10 +7,10 @@ love me love me say that you love me
 
 fool me fool me go on and fool me
 
-## Files : 
- - [lobmi.wav](./lobmi.wav)
- - [f.pyc](./f.pyc)
+## Files :
 
+- [lobmi.wav](./lobmi.wav)
+- [f.pyc](./f.pyc)
 
 decompile the .pyc file to get the code that the file was encoded with.
 

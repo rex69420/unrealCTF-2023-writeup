@@ -5,11 +5,12 @@
 
 something funny about the question title..
 
-## Files : 
- - [chall](./chall)
+## Files :
 
+- [chall](./chall)
 
 ## Solution
+
 the binary is compiled with upx. decompile it using upx with `upx -d chall` and open it in ghidra.
 
 ![ghidra](https://i.imgur.com/0bbHPJf.png)

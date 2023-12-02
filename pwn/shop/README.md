@@ -5,16 +5,15 @@
 
 go on, maybe buy a playlist
 
-
-
 `nc 195.154.231.70 4343`
 
-## Files : 
- - [shop](./shop)
+## Files :
 
+- [shop](./shop)
 
 ## Solution
-running the binary, you get the following output 
+
+running the binary, you get the following output
 
 ![shop](https://i.imgur.com/5ux4MmC.png)
 

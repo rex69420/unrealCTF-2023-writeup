@@ -5,9 +5,9 @@
 
 let's see how advanced the advanced encryption system is
 
-## Files : 
- - [chall.py](./chall.py)
+## Files :
 
+- [chall.py](./chall.py)
 
 the key is only 2 bytes long and paded, so we can bruteforce it.
 

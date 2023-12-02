@@ -1,4 +1,4 @@
-# sst_
+# sst\_
 
 **Category** : forensics
 **Points** : 250
@@ -7,12 +7,13 @@
 
 (only use the bottom row of your keyboard)
 
-## Files : 
- - [me_when.jpg](./me_when.jpg)
- - [sst.wav](./sst.wav)
+## Files :
 
+- [me_when.jpg](./me_when.jpg)
+- [sst.wav](./sst.wav)
 
 ## Solution
+
 decode the wav file using a sstv [decoder](https://github.com/colaclanth/sstv), to get this output.
 
 ![sstv](https://i.imgur.com/PZpZiKB.png)

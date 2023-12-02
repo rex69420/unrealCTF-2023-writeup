@@ -39,5 +39,5 @@
 
 ## web -
 
-1. [*] fileserver - `unreal{5yml1nk5_4lw4y5_d1d_cr33p_m3_0u7}`
-2. [*] secweb - `unreal{m07h3rfuck1n6_j01n}`
+1. [+] fileserver - `unreal{5yml1nk5_4lw4y5_d1d_cr33p_m3_0u7}`
+2. [+] secweb - `unreal{m07h3rfuck1n6_j01n}`

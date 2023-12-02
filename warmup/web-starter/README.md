@@ -5,12 +5,10 @@
 
 web exp time
 
-
-
 http://195.154.231.70:2345
 
-
 ## Solution
+
 reading the source code you can find the line `	<!-- TODO: only let in Samsung Smart Fridge 2.0 -->`
 
 pressing the button makes a request to `/ctfimg`, with the error code `ay, you're not a fridge!`

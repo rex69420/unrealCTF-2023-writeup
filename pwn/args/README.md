@@ -5,15 +5,14 @@
 
 deadbeef!
 
-
-
 `nc 195.154.231.70 8767`
 
-## Files : 
- - [chall](./chall)
+## Files :
 
+- [chall](./chall)
 
 ## Solution
+
 simple ret2win exploit but with an arg. the buffer is 0x36 bytes long, so we need to fill it up, then add the address of the win function, followed up by some padding and the arg which can be found using ghidra.
 
 ![ghidra](https://i.imgur.com/TzBDLdq.png)

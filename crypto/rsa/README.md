@@ -5,11 +5,12 @@
 
 ye toh hona hi tha.
 
-## Files : 
- - [chall.txt](./chall.txt)
+## Files :
 
+- [chall.txt](./chall.txt)
 
 ## Solution
+
 simply use RsaCtfTool to get the flag.
 
 ```bash

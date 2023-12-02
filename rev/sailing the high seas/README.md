@@ -5,11 +5,12 @@
 
 did you know ghidra has a dark theme?
 
-## Files : 
- - [chall](./chall)
+## Files :
 
+- [chall](./chall)
 
 ## Solution
+
 hint was posted in the discord server: `what do people who sail the seas wear on their eyes?`
 
 this is a reference to eye patches, so we can assume that we have to patch the binary.
